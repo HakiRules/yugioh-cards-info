@@ -1,0 +1,20 @@
+[
+  {
+    "es_name": "Aparato Criador de Celdas \"A\"",
+    "image": "ACellBreedingDevice-FOTB-EN-C-UE.png",
+    "card_type": "Spell",
+    "property": "Continuous",
+    "effect_types": "Trigger-like",
+    "ocg": "Unlimited",
+    "adv": "Unlimited",
+    "trad": "Unlimited",
+    "es_lore": "Durante cada una de tus Standby Phases, pon 1 Contador-A en 1 monstruo boca arriba que controle tu adversario.",
+    "archseries": "Alien",
+    "counter": "A-Counter",
+    "action": "Distributes A-Counter(s)",
+    "database_id": "7128",
+    "sets": [
+      "FOTB-EN043; Force of the Breaker; Common"
+    ]
+  }
+]
